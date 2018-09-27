@@ -15,7 +15,7 @@ padding: 0px 10px;  background-color: green;
 figcaption {
   align-content: center; font-size: 8pt;
 }
-#featured-property {
+#featured-property p {
   width: 800px; text-align: center;
 }
 
