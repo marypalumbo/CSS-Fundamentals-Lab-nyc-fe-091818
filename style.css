@@ -9,8 +9,8 @@ h1 {
 figure {
   align-items: center;
 }
-a  {
-padding: 0px 10px;  background-color: gray;
+nav a  {
+padding: 0px 10px;  background-color: purple;
 }
 figcaption {
   align-content: center; font-size: 8pt;
