@@ -10,5 +10,5 @@ figure {
   align-items: center;
 }
 figcaption {
-  align-content: center; 
+  align-content: center; font-size: 8;
 }
